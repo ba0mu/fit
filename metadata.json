@@ -1,0 +1,8 @@
+{
+  "name": "FASHION FITTING ROOM / AI智能试衣间",
+  "description": "A professional AI-driven fashion styling and lookbook generation app with TikTok-inspired aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
